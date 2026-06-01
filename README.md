@@ -190,10 +190,11 @@ starbucks-sales-dashboard/
 
 ## 🙋 Author
 
-**Your Name**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/your-profile)
-[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/your-username)
+**Aditya Shinde**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/linkedin.com/in/aditya-shinde-49b50524a)
+[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/Aditya-powerbi)
 
 ---
+
 
 > **Last Updated:** April 2025 | Data as of 20-Apr-2025
